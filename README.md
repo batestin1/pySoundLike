@@ -22,5 +22,7 @@ pip install pySoundLike
 ```
 from pySoundLike import rhyme
 
+print(rhyme('love'))
+
 ```
     
