@@ -8,7 +8,7 @@
 
 >> <h3> Resume </h3>
 
-<p> This code is like a poetic cupid: it finds rhymes for any words you want! It uses the pronouncing library to find other words that rhyme with the given word, and suggests a random rhyme among those found. If it doesn't find any rhymes, he's also kind and says he couldn't find anything. In a very rhyming way: he's your friend who, when the rhyme fails, makes a cafuné! </p>
+<p> This code is like a poetic cupid: it finds rhymes for any words you want! It uses intelligence to find other words that rhyme with the given word, and suggests a random rhyme among those found. If it doesn't find any rhymes, he's also kind and says he couldn't find anything. In a very rhyming way: he's your friend who, when the rhyme fails, makes a cafuné! </p>
 
 >> <h3> How install </h3>
 
